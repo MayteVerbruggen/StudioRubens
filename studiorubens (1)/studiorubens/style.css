@@ -1,0 +1,22 @@
+h1{
+	text-transform:uppercase;
+	display: inline-block;
+	color: white;
+}
+.logo{
+	color:white;
+}
+.rood{
+	color: red;
+}
+
+nav {
+	display: inline-block;
+}
+
+nav ul li{
+	color: white;
+	display: inline-block;
+	padding: 20px;
+	}
+
